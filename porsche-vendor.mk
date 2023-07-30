@@ -462,7 +462,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/porsche/proprietary/vendor/bin/xtwifi-client:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-client \
     vendor/realme/porsche/proprietary/vendor/bin/xtwifi-inet-agent:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-inet-agent \
     vendor/realme/porsche/proprietary/vendor/etc/OnePlus_QC_LTM_Commercial_SM8350_2021_01_19.pfm:$(TARGET_COPY_OUT_VENDOR)/etc/OnePlus_QC_LTM_Commercial_SM8350_2021_01_19.pfm \
-    vendor/realme/porsche/proprietary/vendor/etc/Oplus_QC_LTM_Dev_2020_10_30.pfm:$(TARGET_COPY_OUT_VENDOR)/etc/Oplus_QC_LTM_Dev_2020_10_30.pfm \
     vendor/realme/porsche/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/realme/porsche/proprietary/vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd \
     vendor/realme/porsche/proprietary/vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.10.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.10.pmd \
